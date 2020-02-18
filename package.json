@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoSangWon/nodejs_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoSangWon/nodejs_tutorial/issues"
+  },
+  "homepage": "https://github.com/KoSangWon/nodejs_tutorial#readme",
+  "dependencies": {
+    "html": "^1.0.0",
+    "sanitize": "^2.1.0",
+    "sanitize-html": "^1.21.1"
+  }
+}

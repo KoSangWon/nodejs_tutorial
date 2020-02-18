@@ -3,8 +3,6 @@ var fs = require('fs');
 var url = require('url');
 var qs = require('querystring');
 
-var template = require('./lib/template.js');
-
 var app = http.createServer(function(request,response){
     var _url = request.url;
     var queryData = url.parse(_url, true).query;//query string 추출
