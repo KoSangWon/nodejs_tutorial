@@ -22,6 +22,6 @@
   "dependencies": {
     "html": "^1.0.0",
     "sanitize": "^2.1.0",
-    "sanitize-html": "^1.21.1"
+    "sanitize-html": "^2.3.2"
   }
 }
